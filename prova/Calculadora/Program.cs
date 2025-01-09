@@ -1,4 +1,4 @@
-namespace TestDiana;
+﻿namespace TestDiana;
 public class Test{
     Random rnd= new();
     int p1 = 0;

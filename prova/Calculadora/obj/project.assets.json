@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DAW\\Entorns\\Tests\\Programes_bàsics_6\\app.csproj",
-      "projectName": "app",
-      "projectPath": "C:\\DAW\\Entorns\\Tests\\Programes_bàsics_6\\app.csproj",
+      "projectUniqueName": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora\\Calculadora.csproj",
+      "projectName": "Calculadora",
+      "projectPath": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora\\Calculadora.csproj",
       "packagesPath": "C:\\Users\\Eduard\\.nuget\\packages\\",
-      "outputPath": "C:\\DAW\\Entorns\\Tests\\Programes_bàsics_6\\obj\\",
+      "outputPath": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eduard\\AppData\\Roaming\\NuGet\\NuGet.Config"
