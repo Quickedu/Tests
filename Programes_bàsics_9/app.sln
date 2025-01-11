@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Princesa.Test", "Princesa.Test\Princesa.Test.csproj", "{8295D5FA-2854-4D0B-A4BD-66D8C8512C42}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "app", "Princesa\app.csproj", "{593BEF3F-EEE9-45DD-BB5B-9B4B2FEF547B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8295D5FA-2854-4D0B-A4BD-66D8C8512C42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8295D5FA-2854-4D0B-A4BD-66D8C8512C42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8295D5FA-2854-4D0B-A4BD-66D8C8512C42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8295D5FA-2854-4D0B-A4BD-66D8C8512C42}.Release|Any CPU.Build.0 = Release|Any CPU
+		{593BEF3F-EEE9-45DD-BB5B-9B4B2FEF547B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{593BEF3F-EEE9-45DD-BB5B-9B4B2FEF547B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{593BEF3F-EEE9-45DD-BB5B-9B4B2FEF547B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{593BEF3F-EEE9-45DD-BB5B-9B4B2FEF547B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A0C385C-FC26-4692-894A-6C07D6E74AD0}
+	EndGlobalSection
+EndGlobal

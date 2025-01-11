@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\DAW\\Programació\\Exercicis\\3- Exercicis metodes\\Programes bàsics 11\\app.csproj": {}
+    "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj": {}
   },
   "projects": {
-    "C:\\DAW\\Programació\\Exercicis\\3- Exercicis metodes\\Programes bàsics 11\\app.csproj": {
+    "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\DAW\\Programació\\Exercicis\\3- Exercicis metodes\\Programes bàsics 11\\app.csproj",
+        "projectUniqueName": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj",
         "projectName": "app",
-        "projectPath": "C:\\DAW\\Programació\\Exercicis\\3- Exercicis metodes\\Programes bàsics 11\\app.csproj",
-        "packagesPath": "C:\\Users\\Eduard\\.nuget\\packages\\",
-        "outputPath": "C:\\DAW\\Programació\\Exercicis\\3- Exercicis metodes\\Programes bàsics 11\\obj\\",
+        "projectPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Eduard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

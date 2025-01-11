@@ -5931,32 +5931,34 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Eduard\\.nuget\\packages\\": {}
+    "C:\\Users\\eduar\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora.Tests\\Calculadora.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_6\\Calculadora.Tests\\Calculadora.Tests.csproj",
       "projectName": "Calculadora.Tests",
-      "projectPath": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora.Tests\\Calculadora.Tests.csproj",
-      "packagesPath": "C:\\Users\\Eduard\\.nuget\\packages\\",
-      "outputPath": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora.Tests\\obj\\",
+      "projectPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_6\\Calculadora.Tests\\Calculadora.Tests.csproj",
+      "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_6\\Calculadora.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Eduard\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora\\Calculadora.csproj": {
-              "projectPath": "C:\\DAW\\Entorns\\Tests\\prova\\Calculadora\\Calculadora.csproj"
+            "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_6\\Calculadora\\Calculadora.csproj": {
+              "projectPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_6\\Calculadora\\Calculadora.csproj"
             }
           }
         }
@@ -6013,7 +6015,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
