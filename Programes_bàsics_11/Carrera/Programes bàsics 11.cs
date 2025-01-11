@@ -1,8 +1,7 @@
-namespace Carrera.Test;
-
+namespace Carreres;
 public class Program{
     public static void Main (){
-        var carrera = new Carrera();
+        var carrera = new Projecte();
         carrera.intro ();
         carrera.jugador(carrera.marcas);
         carrera.escriuresposta (carrera.jugadors);

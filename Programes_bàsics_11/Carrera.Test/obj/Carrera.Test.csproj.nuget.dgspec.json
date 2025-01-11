@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj": {
+                "projectPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -45,6 +49,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.8.0, )"
@@ -62,6 +70,66 @@
               "version": "[2.5.3, )"
             }
           },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj",
+        "projectName": "app",
+        "projectPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\app.csproj",
+        "packagesPath": "C:\\Users\\eduar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eduar\\Coses_Escriptori\\Estudis\\DAW_Cendrassos\\Entorns\\Tests\\tests\\Programes_bàsics_11\\Carrera\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eduar\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
           "imports": [
             "net461",
             "net462",
