@@ -1,5 +1,0 @@
-c:\DAW\Entorns\Tests\prova\Calculadora\obj\Debug\net8.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
-c:\DAW\Entorns\Tests\prova\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfoInputs.cache
-c:\DAW\Entorns\Tests\prova\Calculadora\obj\Debug\net8.0\Calculadora.AssemblyInfo.cs
-c:\DAW\Entorns\Tests\prova\Calculadora\obj\Debug\net8.0\Calculadora.csproj.CoreCompileInputs.cache
-c:\DAW\Entorns\Tests\prova\Calculadora\obj\Debug\net8.0\Calculadora.sourcelink.json
